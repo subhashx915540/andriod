@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   <string-array name="difficult_ans">
+        <item>So you downloaded a game that everyone kept talking about but find you hate it. Or, perhaps you just don’t get the attraction of Instagram. What to do now? Uninstall it, that’s what. There’s no sense in keeping an app on your phone that takes up space and clutters your app tray.
+
+To uninstall Android apps or games, head to your app tray (usually an icon that looks like small squares) at the bottom of your phone. Scroll until you reach the Settings app and then look for Application Manager, Apps, or something similar.
+
+Generally, you’ll find that all of your apps are listed here in alphabetical order. Tapping the app you’d like to remove will bring up options such as Uninstall, Force Stop, Clear Data, etc. As you’d guess, you want to tap Uninstall.</item>
+        <item>Chances are high that when you’ll create or log into your account when you first power on your Android smartphone or tablet. For many of us, however, we have multiple email addresses or accounts that we’d like to manage from our mobile device. Be it Yahoo!, Hotmail, or some other personal account, adding a new one is no problem.
+
+In most instances, the quickest way to add an account is to open the Settings app on your device. Scroll to Accounts and you’ll see an option to “Add New”. From there it’s a matter of entering your credentials and waiting for the sync.
+
+Some manufacturers or versions of Android may not be so simple but, rest assured, it’s nowhere near as difficult as it sounds. Many apps, such as Gmail, let users add new accounts directly from within the app itself. Should you add a Google account (Gmail, Google Apps) to your email, you will also see the same account elsewhere on the device. This is includes, but is not limited to, Google Play, YouTube, Google Play Music, and Google Books. Once you are familiarized with the phone, you can also go in and manually adjust sync settings on your accounts.</item>
+        <item> Google Play is open to many devices and versions, however not every Android based device is able to access Google Play. It is possible to browse Google Play at »play.google.com where you can read reviews, release notes, and even install to your device from the browser if your device has internet connectivity and the Google Play Store app installed. When changing from Android Market to Google Play a number of new types of content became available, including books, movies and music in addition to the Android app section. It is possible to do in-app purchases via the store if a funding source is available.
+
+Amazon.com has also launched an app store aptly named "Amazon Appstore for Android" whose tag-line is "Get a great paid app for free every day". Users will find on Amazon\'s page a paid app offered for free for a set number of hours (usually 24). Users can download this app for free within this time period before the app goes back to paid only.
+
+Amazon offers access to their app store both as a webpage and a stand-alone app. The webpage URL is »http://www.amazon.com/mobile-apps/b?ie=UTF8&amp;node=2350149011 and the app download page is »https://www.amazon.com/gp/feature.html?ie=UTF8&amp;docId=1000626391&amp;ref=mas_gs.
+
+Like the Play Store, The Amazon App Store allows for in-app purchases if payment method is available.
+
+It should be noted that if a user has apps that are from Amazon and chooses to remove the Amazon Appstore app from a device any other apps on the device managed by the Amazon App Store app may no longer function properly if at all.
+</item>
+        <item>In this era, Android is the most popular mobile operating systems on the market, so I would like to short explain a few terms that are used frequently . I’ll try to keep it short and not go into (technical) details.
+
+Custom ROM
+
+A custom ROM is a modified version of the Android operating system. Tweaks, additional features, different themes or an enhanced performance are usually included. Custom ROMs also offer the possibility to use a newer, unreleased, version of Android on your phone that might usually not be available for your device because of restrictions from manufacturer or providers.
+
+Bootloader
+
+The Bootloader is your phone’s software foundation. It’s basically what runs before your operating system starts (like a PC’s BIOS). As many manufactures don’t want you to modify your phone’s OS, it needs to be unlocked before you are able to root your phone or install custom ROMs.
+
+Fastboot
+Fastboot is a diagnostic- and engineering tool which offers you several features such as launching in recovery mode or flashing image files.
+
+Kernel
+
+The kernel is the brain of your phone that controls how the system and hardware interact. It’s basically the lowest level of your operating system that manages memory and hardware.
+
+Recovery Mode
+
+Recovery mode offers you the possibility to perform system-level tasks (like formatting, defragmenting, etc.), backing-up your devices or install custom ROMs. Android offers a limited stock recovery function. More sophisticated recoveries like ClockworkMod Recovery, 4EXT Recovery and TWRP Recovery offer additional features and are easier to use.
+
+Superuser
+
+Rooting your phone will create a new “account” with complete administrative permissions. This superuser account is used by some apps and functions.
+</item>
+        <item>Restart means it will turn off your phone and automaticaly turned on (don\'t ask anymore, thats it)..
+
+Reset means that when u reset it ask ur security code then it will shutdown then automatically turned on and all of your phone settings from, ringtones,wallpaper, screensaver etc. Will be set to default set. As u purchase it.As you purchase it from the very begining you hold up your phone! Gets?</item>
+       
+        <item>No here I am showing that how to check model code, IMEI number and serial number to any android phone.
+You can see these important detail, remove the rear cover and the battery. Beneath the battery you will find a sticker with :
+
+1. Model Code
+
+2. IMEI Number
+
+3. Serial Number
+
+Following representation will give an example of the location of the above information.
+
+NOTE : One can dial *#06# on your phone to get the IMEI number displayed on the screen.
+</item>
+        <item>Short of installing a custom ROM or overclocking your CPU, there are a variety of tweaks you can put in place to make your Android feel faster. Here are the steps:
+
+1. Disable screen animations (Settings: Display: Animations)
+2. Disable browser plugins (Browser: Settings: Plugins)
+3. Use a third party launcher like LauncherPro or ADW Launcher
+4. Turn off live wallpaper
+5. Reduce the number of widgets and icons on your home screens
+6. Uninstall any unused apps
+7. Reduce frequency of data updates (Settings: Accounts)</item>
+        <item>The Android software can be ported to a lot of different kinds of devices, including some on which third-party apps won\'t run properly. The Android Compatibility Definition Document (CDD) spells out the specific device configurations that will be considered compatible.
+
+For example, though the Android source code could be ported to run on a phone that doesn\'t have a camera, the CDD requires that in order to be compatible, all phones must have a camera. This allows developers to rely on a consistent set of capabilities when writing their apps.
+
+The CDD will evolve over time to reflect market realities. For instance, the 1.6 CDD only allows cell phones, but the 2.1 CDD allows devices to omit telephony hardware, allowing for non-phone devices such as tablet-style music players to be compatible. As we make these changes, we will also augment Google Play to allow developers to retain control over where their apps are available. To continue the telephony example, an app that manages SMS text messages would not be useful on a media player, so Google Play allows the developer to restrict that app exclusively to phone devices.</item>
+        <item>The following are the exceptions that are supported by Android
+* InflateException : When an error conditions are occurred, this exception is thrown
+* Surface.OutOfResourceException: When a surface is not created or resized, this exception is thrown
+* SurfaceHolder.BadSurfaceTypeException: This exception is thrown from the lockCanvas() method, when invoked on a Surface whose is SURFACE_TYPE_PUSH_BUFFERS
+* WindowManager.BadTokenException: This exception is thrown at the time of trying to add view an invalid WindowManager.LayoutParamstoken.</item>
+        <item>Dalvik Debug Monitor Service, a GUI debugging application shipped with the SDK. It provides screen capture, log dump, and process examination capabilities. </item>
+        <item>Yes, but need to use NDK 
+Android applications are written using the Java programming language. Android includes a set of core libraries that provides most of the functionality available in the core libraries of the Java programming language.
+Every Android application runs in its own process, with its own instance of the Dalvik virtual machine. Dalvik has been written so that a device can run multiple VMs efficiently. The Dalvik VM executes files in the Dalvik Executable (.dex) format which is optimized for minimal memory footprint. The VM is register-based, and runs classes compiled by a Java language compiler that have been transformed into the .dex format by the included “dx” tool.
+Android only supports applications written using the Java programming language at this time.</item>
+        <item>File - It is a block of arbitrary information, or resource for storing information. It can be of any type.
+Class - Its a compiled form of .Java file . Android finally used this .class files to produce an executable apk
+Activity - An activity is the equivalent of a Frame/Window in GUI toolkits. It is not a file or a file type it is just a class that can be extended in Android for loading UI elements on view.</item>
+        <item>Imagine a situation that you are in a country where no one understands the language you speak and you can not read or write. However, you have mobile phone with you.
+
+With a mobile phone with android, the Google translator translates the data of one language into another language by using XMPP to transmit data. You can type the message in English and select the language which is understood by the citizens of the country in order to reach the message to the citizens.</item>
+        <item>The name of Android’s virtual machine. The Dalvik VM is an interpreter-only virtual machine that executes files in the Dalvik Executable (.dex) format, a format that is optimized for efficient storage and memory-mappable execution. The virtual machine is register-based, and it can run classes compiled by a Java language compiler that have been transformed into its native format using the included “dx” tool. The VM runs on top of Posix-compliant operating systems, which it relies on for underlying functionality (such as threading and low level memory management). The Dalvik core class library is intended to provide a familiar development base for those used to programming with Java Standard Edition, but it is geared specifically to the needs of a small mobile device.</item>
+        <item>Android uses URI strings both for requesting data (e.g., a list of contacts) and for requesting actions (e.g., opening a Web page in a browser). Both are valid URI strings, but have different values. All requests for data must start with the string “content://”. Action strings are valid URIs that can be handled appropriately by applications on the device; for example, a URI starting with “http://” will be handled by the browser.</item>
+        <item>It is a resizable bitmap resource that can be used for backgrounds or other images on the device. The NinePatch class permits drawing a bitmap in nine sections. The four corners are unscaled; the four edges are scaled in one axis, and the middle is scaled in both axes.</item>
+        <item>Permissions.PROCESS_OUTGOING_CALLS: Allows an application to monitor, modify, or abort outgoing calls.</item>
+        <item>sendStickyBroadcast() performs a sendBroadcast (Intent) that is "sticky," i.e. the Intent you are sending stays around after the broadcast is complete, so that others can quickly retrieve that data through the return value of registerReceiver (BroadcastReceiver, IntentFilter). In all other ways, this behaves the same as sendBroadcast(Intent).
+
+One example of a sticky broadcast sent via the operating system is ACTION_BATTERY_CHANGED. When you call registerReceiver() for that action -- even with a null BroadcastReceiver -- you get the Intent that was last broadcast for that action. Hence, you can use this to find the state of the battery without necessarily registering for all future state changes in the battery.</item>
+        <item>Google oversees the development of the core Android open-source platform, and works to create robust developer and user communities. For the most part the Android source code is licensed under the permissive Apache Software License 2.0, rather than a “copyleft” license. The main reason for this is because our most important goal is widespread adoption of the software, and we believe that the ASL2.0 license best achieves that goal.
+You can find more information on this topic at our Project Philosophy and Licensing pages.</item>
+        <item>The Android Open-Source Project maintains the Android software, and develops new versions. Since it’s open-source, this software can be used for any purpose, including to ship devices that are not compatible with other devices based on the same source.
+The function of the Android Compatibility Program is to define a baseline implementation of Android that is compatible with third-party apps written by developers. Devices that are “Android compatible” may participate in the Android ecosystem, including Android Market; devices that don’t meet the compatibility requirements exist outside that ecosystem.
+In other words, the Android Compatibility Program is how we separate “Android compatible devices” from devices that merely run derivatives of the source code. We welcome all uses of the Android source code, but only Android compatible devices — as defined and tested by the Android Compatibility Program — may participate in the Android ecosystem.</item>
+        <item>There are a number of ways you can contribute to Android. You can report bugs, write apps for Android, or contribute source code to the Android Open-Source Project.
+There are some limits on the kinds of code contributions we are willing or able to accept. For instance, someone might want to contribute an alternative application API, such as a full C++-based environment. We would decline that contribution, since Android is focused on applications that run in the Dalvik VM. Alternatively, we won’t accept contributions such as GPL or LGPL libraries that are incompatible with our licensing goals.
+We encourage those interested in contributing source code to contact us via the AOSP Community page prior to beginning any work. You can find more information on this topic at the Getting Involved page.</item>
+        <item>The Android Open Source Project doesn’t really have a notion of a “committer”. All contributions — including those authored by Google employees — go through a web-based system known as “gerrit” that’s part of the Android engineering process. This system works in tandem with the git source code management system to cleanly manage source code contributions.
+Once submitted, changes need to be accepted by a designated Approver. Approvers are typically Google employees, but the same approvers are responsible for all submissions, regardless of origin.
+You can find more information on this topic at the Submitting Patches page.</item>
+        <item>We define an “Android compatible” device as one that can run any application written by third-party developers using the Android SDK and NDK. We use this as a filter to separate devices that can participate in the Android app ecosystem, and those that cannot. Devices that are properly compatible can seek approval to use the Android trademark. Devices that are not compatible are merely derived from the Android source code and may not use the Android trademark.
+In other words, compatibility is a prerequisite to participate in the Android apps ecosystem. Anyone is welcome to use the Android source code, but if the device isn’t compatible, it’s not considered part of the Android ecosystem.</item>
+        <item>The Compatibility Test Suite is a tool used by device manufacturers to help ensure their devices are compatible, and to report test results for validations. The CTS is intended to be run frequently by OEMs throughout the engineering process to catch compatibility issues early.</item>
+        <item>The CTS currently tests that all of the supported Android strong-typed APIs are present and behave correctly. It also tests other non-API system behaviors such as application lifecycle and performance. We plan to add support in future CTS versions to test “soft” APIs such as Intents as well.</item>
+        <item>Yes. While not currently implemented, Google intends to provide web-based self-service tools for OEMs to publish CTS reports so that they can be viewed by anyone. CTS reports can be shared as widely as manufacturers prefer.</item>
+        <item>The CTS is licensed under the same Apache Software License 2.0 that the bulk of Android uses.</item>
+        <item>Yes please! The Android Open-Source Project accepts contributions to improve the CTS in the same way as for any other component. In fact, improving the coverage and quality of the CTS test cases is one of the best ways to help out Android.</item>
+    </string-array> 
+</resources>

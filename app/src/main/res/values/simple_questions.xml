@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string-array name="simple_ques">
+        
+        <item>What is Android?</item>
+        <item>What Is the Google Android SDK? </item>
+        <item>What is the Android Architecture? </item>
+        <item>Describe the Android Framework. </item>
+        <item>What is AAPT? </item>
+        <item>What is the importance of having an emulator within the Android environment? </item>
+        <item>What is the use of an activityCreator? </item>
+        <item>Describe Activities. </item>
+        <item>What are Intents? </item>
+        <item>Differentiate Activities from Services. </item>
+        <item>What items are important in every Android project? </item>
+        <item>What is the importance of XML-based layouts? </item>
+        <item>What are containers? </item>
+        <item> What is Orientation? </item>
+        <item>What is the importance of Android in the mobile market? </item>
+        <item>What do you think are some disadvantages of Android? </item>
+        <item>What is adb? </item>
+        <item>What are the four essential states of an activity? </item>
+        <item>What is ANR? </item>
+        <item>Which elements can occur only once and must be present? </item>
+        <item>How are escape characters used as attribute? </item>
+        <item>What is the importance of settings permissions in app development? </item>
+        <item> What is the function of an intent filter? </item>
+        <item>Enumerate the three key loops when monitoring an activity </item>
+        <item>When is the onStop() method invoked? </item>
+        <item> Is there a case wherein other qualifiers in multiple resources take precedence over locale?</item>
+        <item>What are the different states wherein a process is based? </item>
+        <item>How can the ANR be prevented? </item>
+        <item>What role does Dalvik play in Android development? </item>
+        <item>What is the AndroidManifest.xml? </item>
+        <item>What is the proper way of setting up an Android-powered device for app development? </item>
+        <item>Enumerate the steps in creating a bounded service through AIDL. </item>
+        <item>What is the importance of Default Resources? </item>
+        <item>When dealing with multiple resources, which one takes precedence? </item>
+        <item>When does ANR occur? </item>
+        <item>What is AIDL? </item>
+        <item>What data types are supported by AIDL? </item>
+        <item>What is a Fragment? </item>
+        <item>What is a visible activity? </item>
+        <item>When is the best time to kill a foreground activity? </item>
+        <item>Is it possible to use or add a fragment without using a user interface? </item>
+        <item>How do you remove icons and widgets from the main screen of the Android device? </item>
+        <item>What are the core components under the Android application architecture? </item>
+        <item>What composes a typical Android application project? </item>
+        <item>What is a Sticky Intent? </item>
+        <item>Do all mobile phones support the latest Android operating system? </item>
+        <item>What is portable wi-fi hotspot? </item>
+        <item>What is an action? </item>
+        <item>What is the difference between a regular bitmap and a nine-patch image? </item>
+        <item>What language is supported by Android for application development? </item>
+        
+    </string-array>
+    
+    
+</resources>

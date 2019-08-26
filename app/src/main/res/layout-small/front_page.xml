@@ -1,0 +1,55 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/frontpage_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/lg" >
+
+    <Button
+        android:id="@+id/bseeotherapps"
+        android:layout_width="175dp"
+        android:layout_height="40dp"
+        android:layout_alignLeft="@+id/btq"
+        android:layout_below="@+id/btq"
+        android:layout_marginTop="46dp"
+        android:background="@drawable/button_custom"
+        android:text="@string/seeother"
+        android:textColor="#ffffff"
+  />
+
+    <Button
+        android:id="@+id/btq"
+        android:layout_width="175dp"
+        android:layout_height="40dp"
+        android:layout_alignLeft="@+id/bsq"
+        android:layout_below="@+id/bsq"
+        android:layout_marginTop="47dp"
+        android:background="@drawable/button_custom"
+        android:text="@string/tq"
+        android:textColor="#ffffff"
+        android:textSize="20sp" />
+
+    <Button
+        android:id="@+id/brateapp"
+        android:layout_width="175dp"
+        android:layout_height="40dp"
+        android:layout_alignLeft="@+id/bseeotherapps"
+        android:layout_below="@+id/bseeotherapps"
+        android:layout_marginTop="38dp"
+        android:background="@drawable/button_custom"
+        android:text="@string/rateapp"
+        android:textColor="#ffffff"
+         />
+
+    <Button
+        android:id="@+id/bsq"
+        android:layout_width="175dp"
+        android:layout_height="40dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="32dp"
+        android:background="@drawable/button_custom"
+        android:text="@string/sq"
+        android:textColor="#ffffff" />
+
+</RelativeLayout>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="difficult_ques">
+        <item>How do I uninstall apps or games on Android device? </item>
+        <item>How do I add a new email account on Android device? </item>
+        <item>Where do I get android apps for my smartphone? </item>
+        <item>Commonly used terms in Android Technology. </item>
+        <item>Differece between restart and reset in android phone. </item>
+        <item>How can I check the Model Code, Serial Number &amp; IMEI code of android Mobile phone? </item>
+        <item>How to Make Your Android Device Faster in Seven Steps </item>
+        <item>What kinds of devices can be Android compatible? </item>
+        <item>Explain about the exceptions of Android?</item>
+        <item>What is an DDMS </item>
+        <item>Can I write code for Android using C/C++?</item>
+        <item>What\'s the difference between file, class and activity in android? </item>
+        <item>Describe a real time scenario where android can be used?</item>
+        <item>What is a Dalvik ?</item>
+        <item>What is an URIs? </item>
+        <item>How is nine-patch image different from a regular bitmap?</item>
+        <item>How will you record a phone call in Android? How to get a handle on Audio Stream for a call in Android?</item>
+        <item>What is a Sticky Intent?</item>
+        <item>What kind of open-source project is Android?</item>
+        <item>How does the AOSP relate to the Android Compatibility Program?</item>
+        <item>How can I contribute to Android?</item>
+        <item>How do I become an Android committer?</item>
+        <item>What does “compatibility” mean?</item>
+        <item>What is the purpose of the CTS?</item>
+        <item>What kinds of things does the CTS test?</item>
+        <item>Will the CTS reports be made public?</item>
+        <item>How is the CTS licensed?</item>
+        <item>Does the CTS accept contributions?</item>
+    </string-array>
+
+</resources>
